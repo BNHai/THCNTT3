@@ -28,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1>Kiem tra tam giac</h1>
+<h1>Kiểm Tra Dạng tam Giác</h1>
 <a>a,b,c</a>
 <form>
     <label for="fname">a</label><br>
@@ -39,8 +39,8 @@
     <input type="number" id="inputc" name="lname"><br>
     <input type ="button" name="OKE" value="Phan loai" onclick="getLinkJSONloaitamgiac()">
 </form>
-<h3>Api json pt2: </h3><h4 id="txt_apijsonpt2"></h4>
-<h1>Kiểm tra ngày kế tiếp</h1>
+<h3>API</h3><h4 id="txt_apijsonpt2"></h4>
+<h1>Kiểm Tra Ngày Tiếp Theo</h1>
 <form>
     <label for="lname">Nhập ngày</label><br>
     <input type="number" id="inputday" name="lname"><br>
@@ -50,7 +50,7 @@
     <input type="number" id="inputyear" name="lname"><br>
     <input type ="button" name="OKE" value="Ngay ke tiep" onclick="getLinkJSONngayketiep()">
 </form>
-<h3>Api json pt2: </h3><h4 id="txt_apijsonngayketiep"></h4>
+<h3>API </h3><h4 id="txt_apijsonngayketiep"></h4>
 <script>getData();</script>
 </body>
 </html>
