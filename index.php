@@ -23,7 +23,7 @@
 <html lang="vi" xmlns="http://www.w3.org/1999/xhtml">
 <html>
 <head>
-    <title>Ex restful api</title>
+    <title>Thực Hành Công Nghệ Thông Tin 3 Nguyễn Hải Bằng</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
